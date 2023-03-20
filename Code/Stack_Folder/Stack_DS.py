@@ -23,3 +23,6 @@ class Stack:
             return -1 
         else:
             return self.stack.pop()
+
+
+stack = Stack(5)
