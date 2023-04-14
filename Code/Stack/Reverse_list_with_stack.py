@@ -36,3 +36,6 @@ def reverse_list_Stack(lst, limit):
 x = [1, 2, 3]
 reverse_list_Stack(x, 10)
 print(x)
+
+
+print('')
